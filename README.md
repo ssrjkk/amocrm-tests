@@ -1,4 +1,4 @@
-## amocrm-tests
+## amocrm-tests By ssrjkk
 
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)](https://www.python.org)
 [![pytest](https://img.shields.io/badge/pytest-8.0+-0A9EDC?logo=pytest&logoColor=white)](https://docs.pytest.org)
@@ -6,8 +6,6 @@
 [![CI/CD](https://github.com/ssrjkk/framework-for-amoCRM/actions/workflows/ci.yml/badge.svg)](https://github.com/ssrjkk/framework-for-amoCRM/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Allure Report](https://img.shields.io/badge/report-allure-00a0ff)](https://allurereport.org)
-
-Enterprise-grade фреймворк автоматизации тестирования | 135+ тестов | 99.2% стабильность | 8 типов тестов
 
 ```
 +--------+     +--------+     +--------+
